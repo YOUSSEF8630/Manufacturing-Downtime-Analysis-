@@ -1,11 +1,4 @@
-# Store Sales Dataset Analysis
-
-## 📊 Project Overview
-Comprehensive retail sales analytics project leveraging EDA, statistical modeling, and data visualization techniques to derive actionable business insights, identify sales patterns, and optimize inventory management strategies.
-
-## 🎯 Objectives
-- Analyze sales trends and patterns
-- Identify top-performing products and categories
-- Customer segmentation and behavior analysis
-- Sales forecasting and predictive modeling
-- Generate actionable insights for business decisions
+This project focuses on analyzing manufacturing production data to understand and reduce production downtime. Downtime refers to the periods when the production line stops due to various operational issues such as machine failures, operator errors, inventory shortages, or process adjustments.
+The dataset contains information about production batches, operators, production start and end times, product details, and the factors that caused downtime during the production process.
+Using Power BI, the goal of this project is to clean, transform, and model the data in order to build interactive dashboards that help identify the main causes of downtime, measure production efficiency, and support better operational decisions.
+By analyzing this data, we can discover patterns in production interruptions, determine the most frequent downtime factors, evaluate operator-related issues, and identify opportunities to improve production performance.
